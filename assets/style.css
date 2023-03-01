@@ -45,7 +45,7 @@ header{
 h1{
     display: inline;
     position: absolute;  
-    font-size: 34px;
+    font-size: 32px;
     font-weight:bolder;
 }
 
@@ -172,4 +172,8 @@ h1{
     padding-right: 1em;
     padding-top: 0.5em;
     padding-bottom: 0.5em;    
+}
+
+.space-li{
+    padding: 0.5em;
 }
